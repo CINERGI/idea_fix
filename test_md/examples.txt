@@ -1,0 +1,9 @@
+example xml
+101, 103. generic standard errors
+- place keyword not wrapped in gmd:keyword
+- issues with characterString case in transferFormats
+- no dates in citation
+
+10420: no place keyword, at all (line 217-219)
+
+12: No keyword in some md_keywords (line 146-166)
